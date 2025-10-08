@@ -1,0 +1,43 @@
+body {
+    background-color: rgb(216, 148, 253);
+}
+
+main {
+    text-align:left;
+    color: rgb(133, 61, 159);
+    border: 3px;
+    border-color: rgb(96, 37, 115);
+    border-style: dashed;
+    padding-left: 25px;
+    padding-top: 40px;
+    padding-bottom: 150px;
+    padding-right: 30px;
+    margin: 40px auto;
+    width: 330px;
+    height: 450px;
+    background-color: rgb(255, 200, 255);
+    box-shadow: 0px 4px 10px rgb(71, 70, 70);
+    border-radius: 10px;
+}
+
+form {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: large;
+}
+
+input {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: large;
+}
+
+textarea {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: large;
+    padding: 8px;
+}
+
+button {
+    background-color: rgb(168, 120, 222);
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: large;
+}

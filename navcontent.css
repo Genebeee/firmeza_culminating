@@ -1,0 +1,30 @@
+body {
+    background-color:  rgb(216, 148, 253); 
+}
+
+h3 {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h4 {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+p {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+main {
+    text-align: justify;
+    border: 3px;
+    border-color: rgb(96, 37, 115);
+    border-style: dashed;
+    padding: 20px;
+    width: 90%;
+    margin: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(255, 200, 255);
+    box-shadow: 0px 4px 10px rgb(71, 70, 70);
+    border-radius: 10px;
+    justify-content: center;
+}
